@@ -1,6 +1,7 @@
 ### Hello 👋
 
-- 🌱 I’m currently learning Computer Architecture
-- 💬 Ask me about North Central College (NCC)
-- 📫 How to reach me: creal@noctrl.edu 
-- ⚡ Fun fact: I am minoring in mathmatics
+- 🌱 I’m currently learning about Computer Architecture
+- 📚 Currently a rising junior 
+- 📊 Intersted in hardware & embedded systems 
+- 🎓 Pursuing a Bachelor's in Computer Enginnering
+- ⚡ Fun fact: I am minoring in mathematics
