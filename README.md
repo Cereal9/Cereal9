@@ -1,4 +1,4 @@
-###  Hello 👋
+### Hello 👋
 
 - 🌱 I’m currently learning about Operating Systems
 - 📚 Currently a rising junior 
