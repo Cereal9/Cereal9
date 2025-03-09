@@ -1,4 +1,4 @@
-### Hello, World! 👋  
+### Hello 👋  
 
 💻 **Aspiring Computer Engineer | Systems & Embedded Enthusiast**  
 
