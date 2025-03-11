@@ -1,6 +1,6 @@
 ### Hello 👋  
 
-💻 **Aspiring Computer Engineer | Systems & Embedded Enthusiast**  
+💻 **Aspiring Computer Science & Engineer Major | Systems & Embedded Enthusiast**  
 
 ---
 
