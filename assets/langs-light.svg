@@ -5,28 +5,28 @@
     <clipPath id="bar-light"><rect x="25" y="50" width="350" height="10" rx="5"/></clipPath>
     <rect x="25" y="50" width="350" height="10" rx="5" fill="#F6F8FA"/>
     <g clip-path="url(#bar-light)">
-      <rect x="25.0" y="50" width="320.8" height="10" fill="#0077B6"/>
-      <rect x="345.8" y="50" width="8.3" height="10" fill="#00B4D8"/>
-      <rect x="354.1" y="50" width="7.9" height="10" fill="#023E8A"/>
-      <rect x="362.0" y="50" width="6.0" height="10" fill="#48CAE4"/>
-      <rect x="368.0" y="50" width="3.9" height="10" fill="#0096C7"/>
+      <rect x="25.0" y="50" width="317.3" height="10" fill="#0077B6"/>
+      <rect x="342.3" y="50" width="8.2" height="10" fill="#00B4D8"/>
+      <rect x="350.5" y="50" width="7.8" height="10" fill="#023E8A"/>
+      <rect x="358.3" y="50" width="7.7" height="10" fill="#48CAE4"/>
+      <rect x="366.0" y="50" width="5.9" height="10" fill="#0096C7"/>
       <rect x="371.9" y="50" width="3.1" height="10" fill="#57606A"/>
     </g>
     <rect x="25" y="83" width="9" height="9" rx="2" fill="#0077B6"/>
     <text x="42" y="92" font-size="13" font-weight="600" fill="#1F2328">C</text>
-    <text x="145" y="92" font-size="13" text-anchor="end" fill="#57606A">91.7%</text>
+    <text x="145" y="92" font-size="13" text-anchor="end" fill="#57606A">90.6%</text>
     <rect x="215" y="83" width="9" height="9" rx="2" fill="#00B4D8"/>
     <text x="232" y="92" font-size="13" font-weight="600" fill="#1F2328">Assembly</text>
-    <text x="335" y="92" font-size="13" text-anchor="end" fill="#57606A">2.4%</text>
+    <text x="335" y="92" font-size="13" text-anchor="end" fill="#57606A">2.3%</text>
     <rect x="25" y="107" width="9" height="9" rx="2" fill="#023E8A"/>
     <text x="42" y="116" font-size="13" font-weight="600" fill="#1F2328">HTML</text>
-    <text x="145" y="116" font-size="13" text-anchor="end" fill="#57606A">2.3%</text>
+    <text x="145" y="116" font-size="13" text-anchor="end" fill="#57606A">2.2%</text>
     <rect x="215" y="107" width="9" height="9" rx="2" fill="#48CAE4"/>
-    <text x="232" y="116" font-size="13" font-weight="600" fill="#1F2328">CSS</text>
-    <text x="335" y="116" font-size="13" text-anchor="end" fill="#57606A">1.7%</text>
+    <text x="232" y="116" font-size="13" font-weight="600" fill="#1F2328">VHDL</text>
+    <text x="335" y="116" font-size="13" text-anchor="end" fill="#57606A">2.2%</text>
     <rect x="25" y="131" width="9" height="9" rx="2" fill="#0096C7"/>
-    <text x="42" y="140" font-size="13" font-weight="600" fill="#1F2328">VHDL</text>
-    <text x="145" y="140" font-size="13" text-anchor="end" fill="#57606A">1.1%</text>
+    <text x="42" y="140" font-size="13" font-weight="600" fill="#1F2328">CSS</text>
+    <text x="145" y="140" font-size="13" text-anchor="end" fill="#57606A">1.7%</text>
     <rect x="215" y="131" width="9" height="9" rx="2" fill="#57606A"/>
     <text x="232" y="140" font-size="13" font-weight="600" fill="#1F2328">Other</text>
     <text x="335" y="140" font-size="13" text-anchor="end" fill="#57606A">0.9%</text>
