@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="165" viewBox="0 0 400 165" role="img" aria-label="GitHub Stats">
+  <rect x="0.5" y="0.5" width="399" height="164" rx="4.5" fill="#FFFFFF" stroke="#D0D7DE"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif">
+    <text x="25" y="34" font-size="18" font-weight="600" fill="#0077B6">GitHub Stats</text>
+    <text x="25" y="70" font-size="20" font-weight="600" fill="#1F2328">42</text>
+    <text x="25" y="85" font-size="11" letter-spacing="0.4" fill="#57606A">CONTRIBUTIONS</text>
+    <text x="215" y="70" font-size="20" font-weight="600" fill="#1F2328">40</text>
+    <text x="215" y="85" font-size="11" letter-spacing="0.4" fill="#57606A">COMMITS</text>
+    <text x="25" y="103" font-size="20" font-weight="600" fill="#1F2328">11</text>
+    <text x="25" y="118" font-size="11" letter-spacing="0.4" fill="#57606A">REPOSITORIES</text>
+    <text x="215" y="103" font-size="20" font-weight="600" fill="#1F2328">0</text>
+    <text x="215" y="118" font-size="11" letter-spacing="0.4" fill="#57606A">STARS</text>
+    <text x="25" y="136" font-size="20" font-weight="600" fill="#1F2328">0</text>
+    <text x="25" y="151" font-size="11" letter-spacing="0.4" fill="#57606A">PULL REQUESTS</text>
+    <text x="215" y="136" font-size="20" font-weight="600" fill="#1F2328">3</text>
+    <text x="215" y="151" font-size="11" letter-spacing="0.4" fill="#57606A">FOLLOWERS</text>
+  </g>
+</svg>

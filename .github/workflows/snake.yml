@@ -1,0 +1,45 @@
+name: Snake
+
+# Regenerates the contribution snake and publishes it to the `output` branch,
+# which is what the README's <picture> element points at. Nothing is committed
+# to `main`; the generated SVGs live only on `output`.
+
+on:
+  schedule:
+    # Nightly at 04:23 UTC, offset from stats.yml (06:17) so the two runs
+    # never contend for the same contribution API.
+    - cron: "23 4 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: snake
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Render snake SVGs
+        uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          # Colors come from the accent ramp in assets/STYLE.md:
+          # #023E8A -> #0077B6 -> #00B4D8 -> #48CAE4 -> #90E0EF
+          outputs: |
+            dist/snake-dark.svg?color_snake=%2348CAE4&color_dots=%23161B22,%23023E8A,%230077B6,%2300B4D8,%2390E0EF
+            dist/snake-light.svg?color_snake=%230077B6&color_dots=%23EBEDF0,%2390E0EF,%2348CAE4,%230096C7,%23023E8A
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

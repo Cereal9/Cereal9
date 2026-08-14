@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="220" viewBox="0 0 1000 220" role="img" aria-label="Cesar Real, Developer, Embedded and Firmware">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#023E8A"/>
+      <stop offset="50%" stop-color="#0077B6"/>
+      <stop offset="100%" stop-color="#00B4D8"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0096C7"/>
+      <stop offset="100%" stop-color="#023E8A"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0077B6" stop-opacity="0.12"/>
+      <stop offset="45%" stop-color="#0077B6" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00B4D8" stop-opacity="0.9"/>
+    </linearGradient>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.1" fill="#0077B6" opacity="0.13"/>
+    </pattern>
+    <clipPath id="card">
+      <rect x="0.75" y="0.75" width="998.5" height="218.5" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="998.5" height="218.5" rx="14" fill="#FFFFFF"/>
+  <g clip-path="url(#card)">
+    <rect width="1000" height="220" fill="url(#dots)"/>
+    <rect x="0" y="0" width="5" height="220" fill="url(#edge)"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M646 108 H706 V84 H786 V108 H842 V84 H942" stroke="url(#wave)" stroke-width="2" opacity="0.4"/>
+      <path d="M646 176 H686 V132 H726 V176 H766 V132 H826 V176 H866 V132 H942" stroke="url(#wave)" stroke-width="2.4"/>
+    </g>
+    <circle cx="942" cy="132" r="3.4" fill="#0096C7"/>
+    <circle cx="646" cy="176" r="3" fill="#0077B6" opacity="0.6"/>
+  </g>
+  <rect x="0.75" y="0.75" width="998.5" height="218.5" rx="14" fill="none" stroke="#D0D7DE" stroke-width="1.5"/>
+
+  <text x="60" y="98" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="44" font-weight="700" letter-spacing="3" fill="#1F2328">CESAR REAL</text>
+  <rect x="60" y="118" width="88" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="60" y="150" font-family="ui-monospace, 'SF Mono', 'JetBrains Mono', Menlo, Consolas, 'DejaVu Sans Mono', monospace" font-size="16" letter-spacing="1.6" fill="#57606A">DEVELOPER &#183; EMBEDDED &#183; FIRMWARE</text>
+  <text x="60" y="177" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14.5" fill="#6E7681">Bare-metal firmware, FPGAs, and the layer in between.</text>
+
+  <rect x="784" y="26" width="158" height="30" rx="15" fill="#F6F8FA" stroke="#D0D7DE"/>
+  <circle cx="803" cy="41" r="4" fill="#0077B6"/>
+  <text x="815" y="45.8" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" textLength="112" lengthAdjust="spacingAndGlyphs" fill="#0077B6">github/cereal9</text>
+</svg>
