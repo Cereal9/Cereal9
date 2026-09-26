@@ -5,8 +5,8 @@
     <clipPath id="bar-light"><rect x="25" y="50" width="350" height="10" rx="5"/></clipPath>
     <rect x="25" y="50" width="350" height="10" rx="5" fill="#F6F8FA"/>
     <g clip-path="url(#bar-light)">
-      <rect x="25.0" y="50" width="300.3" height="10" fill="#0077B6"/>
-      <rect x="325.3" y="50" width="26.5" height="10" fill="#00B4D8"/>
+      <rect x="25.0" y="50" width="300.2" height="10" fill="#0077B6"/>
+      <rect x="325.2" y="50" width="26.7" height="10" fill="#00B4D8"/>
       <rect x="351.8" y="50" width="5.5" height="10" fill="#023E8A"/>
       <rect x="357.3" y="50" width="5.4" height="10" fill="#48CAE4"/>
       <rect x="362.7" y="50" width="3.9" height="10" fill="#0096C7"/>
@@ -23,7 +23,7 @@
     <text x="145" y="116" font-size="13" text-anchor="end" fill="#57606A">1.6%</text>
     <rect x="215" y="107" width="9" height="9" rx="2" fill="#48CAE4"/>
     <text x="232" y="116" font-size="13" font-weight="600" fill="#1F2328">Assembly</text>
-    <text x="335" y="116" font-size="13" text-anchor="end" fill="#57606A">1.6%</text>
+    <text x="335" y="116" font-size="13" text-anchor="end" fill="#57606A">1.5%</text>
     <rect x="25" y="131" width="9" height="9" rx="2" fill="#0096C7"/>
     <text x="42" y="140" font-size="13" font-weight="600" fill="#1F2328">CSS</text>
     <text x="145" y="140" font-size="13" text-anchor="end" fill="#57606A">1.1%</text>
