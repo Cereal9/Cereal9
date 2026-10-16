@@ -12,7 +12,7 @@
     <text x="215" y="118" font-size="11" letter-spacing="0.4" fill="#8B949E">STARS</text>
     <text x="25" y="136" font-size="20" font-weight="600" fill="#C9D1D9">0</text>
     <text x="25" y="151" font-size="11" letter-spacing="0.4" fill="#8B949E">PULL REQUESTS</text>
-    <text x="215" y="136" font-size="20" font-weight="600" fill="#C9D1D9">3</text>
+    <text x="215" y="136" font-size="20" font-weight="600" fill="#C9D1D9">2</text>
     <text x="215" y="151" font-size="11" letter-spacing="0.4" fill="#8B949E">FOLLOWERS</text>
   </g>
 </svg>
